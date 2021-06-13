@@ -24,7 +24,7 @@ Go to [https://tiger-viewer.herokuapp.com](https://tiger-viewer.herokuapp.com)
 
 Once the webpage is loaded, go to [bit.ly/2G16cnk](bit.ly/2G16cnk) with your mobile phone.
 
-After opening the link on mobile phone, wait the end of the countdown and start tilting it from left to right and from backwards to forwards.
+After opening the link on mobile phone, wait the end of the countdown and start tilting your phone from left to right and from backwards to forwards.
 
 (If you don't have a computer to test the app you can also visualize the 3D model with a phone or a tablet just go to [https://tiger-viewer.herokuapp.com/mobileViewer](https://tiger-viewer.herokuapp.com/mobileViewer))
 
